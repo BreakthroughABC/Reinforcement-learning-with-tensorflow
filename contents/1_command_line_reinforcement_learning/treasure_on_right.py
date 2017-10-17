@@ -5,7 +5,7 @@ Run this program and to see how the agent will improve its strategy of finding t
 
 View more on my tutorial page: https://morvanzhou.github.io/tutorials/
 """
-
+#This is me learning through this tutorial
 import numpy as np
 import pandas as pd
 import time
